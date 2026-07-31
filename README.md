@@ -14,4 +14,4 @@ Associate Analyst case study. 3,021 leads sold to one advertiser (Apr to Sep 200
 
 ## Full write-up
 
-A complete report walking through all four steps and the final answers to each question is submitted to the provided link.
+A complete report walking through all four steps and the final answers to each question is submitted using the provided link.
